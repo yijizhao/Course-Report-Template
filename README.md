@@ -1,1 +1,1 @@
-# Course-Report-Template
+# YNU Course Report Template
